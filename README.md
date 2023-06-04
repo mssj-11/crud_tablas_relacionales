@@ -15,6 +15,12 @@ Instalando posibles paquetes necesarios:
 `npm run dev`
 `php artisan serve`
 
+##  Generador CRUD
+`composer require ibex/crud-generator --dev`
+Generar comando: 
+`php artisan vendor:publish --tag=crud`
+### Generación de los archivos para el patrón MVC
+`php artisan make:crud categorias`
 
 ##  --------------------------------------------------------------------------------------
 
