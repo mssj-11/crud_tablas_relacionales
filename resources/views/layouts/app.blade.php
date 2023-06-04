@@ -30,7 +30,13 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
-
+                        <!--  RUTAS  -->
+                        <li class="nav-item">
+                            <a href="{{ route('libros.index')  }}" class="nav-link">{{  __('Libros')  }}</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="{{ route('categorias.index')  }}" class="nav-link">{{  __('Categorias')  }}</a>
+                        </li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->
