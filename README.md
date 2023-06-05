@@ -21,6 +21,7 @@ Generar comando:
 `php artisan vendor:publish --tag=crud`
 ### Generación de los archivos para el patrón MVC
 `php artisan make:crud categorias`
+`php artisan make:crud libros`
 
 ##  --------------------------------------------------------------------------------------
 
