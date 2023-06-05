@@ -1,4 +1,14 @@
+#   CRUD con Laravel y el componente de Bootstrap
+## Vista
+<p aling="center"><img src="./README/1.png"></p>
+<p aling="center"><img src="./README/2.png"></p>
+<p aling="center"><img src="./README/3.png"></p>
+<p aling="center"><img src="./README/4.png"></p>
 
+
+
+
+#   Proceso de construcción
 ##  Migraciones 
 `php artisan make:migration categorias`
 
